@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="tomee_db" type="javax.sql.DataSource">#Fri Oct 17 10:21:41 EST 2014
+jdbcDriver=com.mysql.jdbc.Driver
+password=gate68
+userName=root
+jdbcUrl=jdbc\:mysql\://localhost\:3306/tomee_db?zeroDateTimeBehavior\=convertToNull
+</Resource>
+</resources>
